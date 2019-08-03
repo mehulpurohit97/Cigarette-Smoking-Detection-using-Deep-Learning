@@ -29,4 +29,4 @@ You can find the training steps in [smoking_detection.ipynb](smoking_detection.i
   <img src="smoking5_det.jpg" width="415" height=315" /> 
 </p>
 
-You can also check the performance on [Smoking_detection.mp4](Smoking_detection.mp4) this video.
+You can also check the performance on this video [Smoking_detection.mp4](Smoking_detection.mp4).

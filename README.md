@@ -4,6 +4,16 @@ This is a project of detecting Cigarette Smoking from the given images. The code
 
 The codes and examples can be found in [smoking_detection.ipynb](smoking_detection.ipynb).
 
+# Data
+
+* I collect 659 smoking images from google images.
+* I annotate all the images using [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark).
+* I split the images in 80% training images and 20% validation images.
+
+# Training
+
+* 
+
 # Example
 
 <p float="left">
